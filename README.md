@@ -3,7 +3,10 @@
 
 ## Intro
 
-Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+> If your documentation is generated from source code, I am immediately skeptical. You should use words to communicate with your users, and those words shouldn’t live in your source code. If you included all of the things needed to document a project in source, your code would be unreadable.
+
+> So please, use a tool that allows you to write prose documentation outside of your source code. Your users will thank you.
+-- from [Judge the Quality of Documentation](http://www.ericholscher.com/blog/2014/feb/27/how-i-judge-documentation-quality/)
 
 ### How to Build
 - $git clone <this-repo>
