@@ -16,11 +16,14 @@ Prettier is an opinionated code formatter. It enforces a consistent style by par
 - $cd website
 - edit sidebars.json file
 - edit corresponding docs/xxxxxx.md file ( in this file on top what you put after 'id' goes as "URL Link text" on website
----
+-----------
+<repo-dir>/test* : All test* are deleted before making this our own repo
+  
+**[Documentation](https://prettier.io/docs/en/)**
 
 ## Comparision to Other Documentation tools
 #### 1. Docusarus : 
-- our Docs are based on this one, so is [create-react-app docs](https://facebook.github.io/create-react-app/docs/developing-components-in-isolation). [WHO is using DOCUSAURS](https://docusaurus.io/en/users)
+- our Docs are based on this one, so is [create-react-app docs](https://facebook.github.io/create-react-app/docs/developing-components-in-isolation). So many are using it [WHO is using DOCUSAURS](https://docusaurus.io/en/users)
 
 
 #### 2. Gatsby JS : 
@@ -29,11 +32,3 @@ Prettier is an opinionated code formatter. It enforces a consistent style by par
 
 #### 3. GitBooks : 
 - This also has Free version: has Collapse & Expand menus on the LEFT main menu ; has RIGHT # [anchors	page :](https://docs.gitbook.com/organization-management/member-management) and [here](https://github.com/opencollective/documentation)
-
-
-
-<repo-dir>/test* : All test* are deleted before making this our own repo
-  
-**[Documentation](https://prettier.io/docs/en/)**
-
-
