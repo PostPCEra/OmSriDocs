@@ -20,6 +20,9 @@
 > This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation.
 -- [ Documentation Guide](https://www.writethedocs.org/guide/)
 
+### TODO
+- get old 'categorized' docs pages into this project [from here](https://github.com/PostPCEra/MLDocs/tree/master/docs), here are [categories](https://github.com/PostPCEra/MLDocs/blob/master/website/sidebars.json)
+
 ### How to Build
 - $git clone <this-repo>
 - $cd website 
@@ -46,7 +49,7 @@
  - It seems you can also build 2 COLUMN Docs site using this GatsBy [HEML docs](https://heml.io/docs/getting-started/guide#our-metadata) ( reference of this site is from above 40 Companies showcase )
 
 #### 3. DocZ: 
-- Sites: [React Pixi](https://reactpixi.org/) -- [3rd level anchors in LEFT menu itslef](https://smooth-ui.smooth-code.com/docs-system-styled#use-system-to-create-a-styled-component) github: [DocZ](https://www.docz.site/) - entirely built using Gatsby under the hood, optimised for a lightning fast dev experience and build times and with a huge ecosystem of plugins and tools. Based on MDX: MDX is Markdown + JSX, bringing the world of components to Markdown. MDX makes it possible to import and use your components in a Markdown-style file
+- If you want LIVE React Components in documentation this is the goto Tool: [React Pixi](https://reactpixi.org/) -- [3rd level anchors in LEFT menu itslef](https://smooth-ui.smooth-code.com/docs-system-styled#use-system-to-create-a-styled-component) github: [DocZ](https://www.docz.site/) - entirely built using Gatsby under the hood, optimised for a lightning fast dev experience and build times and with a huge ecosystem of plugins and tools. Based on MDX: MDX is Markdown + JSX, bringing the world of components to Markdown. MDX makes it possible to import and use your components in a Markdown-style file
 
 
 #### 4. GitBooks: 
