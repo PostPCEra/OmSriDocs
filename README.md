@@ -45,14 +45,18 @@
 - This static site generator is also good for Documentation. See these 40 Companies [how they are using Gatsby for DOCUMENTATION](https://www.gatsbyjs.org/showcase/?filters%5B0%5D=Documentation) . see these [GraphQL docs](https://www.howtographql.com/advanced/1-server/) and [snapchat](https://docs.snapchat.com/docs/downloads) . There is talk on Twitter by Docusarus Team, in future they may look into building ['Docusarus' using 'Gatsby'](https://twitter.com/PostPCEra/status/1149446742569390081)
  - It seems you can also build 2 COLUMN Docs site using this GatsBy [HEML docs](https://heml.io/docs/getting-started/guide#our-metadata) ( reference of this site is from above 40 Companies showcase )
 
-#### 3. GitBooks: 
+#### 3. DocZ: 
+- Sites: [React Pixi](https://reactpixi.org/) -- [3rd level anchors in LEFT menu itslef](https://smooth-ui.smooth-code.com/docs-system-styled#use-system-to-create-a-styled-component) github: [DocZ](https://www.docz.site/) - entirely built using Gatsby under the hood, optimised for a lightning fast dev experience and build times and with a huge ecosystem of plugins and tools. Based on MDX: MDX is Markdown + JSX, bringing the world of components to Markdown. MDX makes it possible to import and use your components in a Markdown-style file
+
+
+#### 4. GitBooks: 
 - This also has Free version: has Collapse & Expand menus on the LEFT main menu ; has RIGHT # [anchors	page :](https://docs.gitbook.com/organization-management/member-management) and [here](https://github.com/opencollective/documentation)
 
-#### 4. Other Tools: 
+#### 5. Other Tools: 
 
 - Read the Docs: [Scrapy](https://docs.scrapy.org/en/latest/) -- [Getting Started with Sphinx](https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html)-- [Django with Read the Docs](https://django.readthedocs.io/en/latest/topics/db/queries.html#deleting-objects) -- [Django Docs -- Original by Sphinx?](https://docs.djangoproject.com/en/2.2/topics/db/queries/)
 
 - Sphinx: Python Documentation Generator: [Sphinx](http://www.sphinx-doc.org/en/master/) uses reStructuredText as its markup language, and many of its strengths come from the power and straightforwardness of reStructuredText and its parsing and translating suite, the Docutils.  Sphinx [Extensions](http://www.sphinx-doc.org/en/master/develop.html#extensions)
 
-- [DocZ](https://www.docz.site/) - entirely built using Gatsby under the hood, optimised for a lightning fast dev experience and build times and with a huge ecosystem of plugins and tools. Based on MDX: MDX is Markdown + JSX, bringing the world of components to Markdown. MDX makes it possible to import and use your components in a Markdown-style file
+
 - MkDocs (dated?)
