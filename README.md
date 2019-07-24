@@ -36,7 +36,7 @@
   
 **[Documentation](https://prettier.io/docs/en/)**
 
-## Comparision to Other Documentation tools
+## Brief overview of various Documentation tools
 #### 1. Docusarus: 
 - our Docs are based on this one, so is [create-react-app docs](https://facebook.github.io/create-react-app/docs/developing-components-in-isolation). So many are using it [WHO is using DOCUSAURS](https://docusaurus.io/en/users)
 
