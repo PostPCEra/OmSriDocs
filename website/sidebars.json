@@ -1,0 +1,37 @@
+{
+  "docs": {
+    "About": [
+      "index",
+      "why-prettier",
+      "comparison",
+      "option-philosophy",
+      "rationale"
+    ],
+    "Usage": [
+      "install",
+      "cli",
+      "api",
+      "browser",
+      "browser2233",
+      "plugins",
+      "precommit",
+      "browser2244",
+      "watching-files",
+      "integrating-with-linters",
+      "ignore"
+    ],
+    "Configuring Prettier": [
+      "options",
+      "configuration"
+    ],
+    "Editors": [
+      "editors",
+      "webstorm",
+      "vim"
+    ],
+    "Misc": [
+      "technical-details",
+      "related-projects"
+    ]
+  }
+}
