@@ -40,6 +40,14 @@
 **[Documentation](https://prettier.io/docs/en/)**
 
 ## Brief overview of various Documentation tools
+
+| Name          | suited for     | Notes 2  |  Credentials  |  Samples |
+| ------------- |:-------------:| -----:    |------------- |:-------------:| 
+| Docusarus     | Left menu, Right Anchors | $1600     |by FB |[WHO is using DOCUSAURS](https://docusaurus.io/en/users) |
+| Gatsby JS     |        |   $12 .   |right-aligned |right-aligned |
+| DocZ | can have LIVE React Cmponents in Docs      |    $1     | based on GatsBy  |right-aligned |
+
+
 #### 1. Docusarus: 
 - our Docs are based on this one, so is [create-react-app docs](https://facebook.github.io/create-react-app/docs/developing-components-in-isolation). So many are using it [WHO is using DOCUSAURS](https://docusaurus.io/en/users)
 
