@@ -43,7 +43,7 @@
 
 | Name          | suited for     | Notes 2  |  Credentials  |  Samples |
 | ------------- |:-------------:| -----:    |------------- |:-------------:| 
-| Docusarus     | Left menu, Right Anchors | $1600     |by FB |[WHO is using DOCUSAURS](https://docusaurus.io/en/users) |
+| Docusarus     | Left menu, Right Anchors |      |by FB, [Users](https://docusaurus.io/en/users) | [prettier]()|
 | Gatsby JS     |        |   $12 .   |right-aligned |right-aligned |
 | DocZ | can have LIVE React Cmponents in Docs      |    $1     | based on GatsBy  |right-aligned |
 
