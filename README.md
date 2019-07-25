@@ -44,7 +44,7 @@
 | Name          | suited for     | Notes 2  |  Credentials  |  Samples |
 | ------------- |:-------------:| -----:    |------------- |:-------------:| 
 | Docusarus     | Left menu, Right Anchors |      |by FB, [Users](https://docusaurus.io/en/users) | [prettier]()|
-| Gatsby JS     |        |   $12 .   |right-aligned |right-aligned |
+| Gatsby JS     |        |   $12 .   |right-aligned |Seed VC $3.4M, [40 Co Users](https://www.gatsbyjs.org/showcase/?filters%5B0%5D=Documentation)  |
 | DocZ | can have LIVE React Cmponents in Docs      |    $1     | based on GatsBy  |right-aligned |
 
 
