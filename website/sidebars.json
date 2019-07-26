@@ -3,31 +3,31 @@
     "About": [
       "index",
       "why-prettier",
-      "comparison",
       "option-philosophy",
       "rationale"
     ],
-    "Usage": [
-      "install",
-      "cli",
-      "api",
-      "browser",
+    "The Toolchain": [
+      "21-collaboration-tool-set",
+      "22-the-machine",
+      "23-editors-n-ides",
+      "browser2244"
+    ],
+    "Technology Stack": [
       "browser2233",
-      "plugins",
-      "precommit",
-      "browser2244",
-      "watching-files",
-      "integrating-with-linters",
-      "ignore"
+      "11_os_shell", 
+      "12_ES6_React_Javascript", 
+      "13_Python_n_Django", 
+      "14_Analytics", 
+      "15_Socialmedia_marketing", 
+      "16_DevOps", 
+      "17_Producivity_tools" 
     ],
-    "Configuring Prettier": [
-      "options",
-      "configuration"
-    ],
-    "Editors": [
-      "editors",
-      "webstorm",
-      "vim"
+    "Mastery Learn": [ 
+      "31_Pedagogy", 
+      "32_ML_building_business", 
+      "33_Product_featuers",  
+      "351_OnlineJudge", 
+      "36_Crowd_solving"
     ],
     "Misc": [
       "technical-details",

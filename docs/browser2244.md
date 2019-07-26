@@ -1,6 +1,6 @@
 ---
 id: browser2244
-title: Browser 22 44 AAAAAAAAAAAAAAAAa
+title: Browser 22 44
 ---
 
 22 44  Run Prettier in the browser with the `standalone.js` UMD bundle shipped in the NPM package (starting in version 1.13). The new UMD bundle only formats the code and has no support for config files, ignore files, CLI usage, or automatic loading of plugins.
