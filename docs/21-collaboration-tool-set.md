@@ -27,12 +27,13 @@ Collab ..
 
 ### Brief overview of various Documentation tools
 
-| Name          | suited for     | Notes 2  |  Credentials  |  Samples |
-| ------------- |:-------------:| -----:    |------------- |:-------------:| 
-| Docusarus     | Left menu, Right Anchors |      |by FB, [Users](https://docusaurus.io/en/users) | [prettier]()|
-| Gatsby JS     |        |   $12 .   |right-aligned |Seed VC $3.4M, [40 Co Users](https://www.gatsbyjs.org/showcase/?filters%5B0%5D=Documentation)  |
-| DocZ | can have LIVE React Cmponents in Docs      |    $1     | based on GatsBy  |right-aligned |
-
+| Name          | suited for      |  Credentials  |  Samples |
+| ------------- |:-------------   |-------------  |:-------------:| 
+| Docusarus     | Left menu, Right Anchors |by FB, [Users](https://docusaurus.io/en/users) | [prettier]()|
+| Gatsby JS     |    same as Docusarus    | VC $3.4M, [40 Co Users](https://www.gatsbyjs.org/showcase/?filters%5B0%5D=Documentation)  |  |
+| DocZ          | MDX = Markdown + JSX ; can have LIVE React Components in Docs  | based on GatsBy  |[Docz](https://www.docz.site/docs/mdx-plugins) |
+| Read the Docs:|     works with Sphinx   |                      |  [Scrapy](https://docs.scrapy.org/en/latest/)|
+| Sphinx:       | Python Documentation Generator:      |  |[Sphinx](http://www.sphinx-doc.org/en/master/)|
 
 #### 1. Docusarus: 
 - our Docs are based on this one, so is [create-react-app docs](https://facebook.github.io/create-react-app/docs/developing-components-in-isolation). So many are using it [WHO is using DOCUSAURS](https://docusaurus.io/en/users)
@@ -59,8 +60,15 @@ Collab ..
 
 ## Collaboration Toolset
 
-KS , PM  & CT 
+>Here are 3 ingredients of [productive teamwork:](https://www.quora.com/What-are-the-best-collaboration-tools-for-teamwork/answer/Yuliia-Chernykh)
 
+> Team communication
+
+> Project management
+
+> Knowledge sharing
+
+Find the right tool for each process mentioned above and you will achieve the best results with your team. 
 
 ### Knowledge sharing
 
