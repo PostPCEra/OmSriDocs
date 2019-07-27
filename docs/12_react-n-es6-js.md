@@ -27,7 +27,7 @@ TODO : got all page content for JS from old project,  EDIT & add new
 
 ## React Eco System 
 
-> The concept of `Virtual DOM` is an untapped `abstraction` in the browser, waiting to be discovered for a decade . This untapped abstraction is manifested in React Js. Any untapped abstraction has to come out, it is only matter of time.
+> asr: The concept of `Virtual DOM` is an untapped `abstraction` in the browser, waiting to be discovered for a decade . This untapped abstraction is manifested in React Js. Any untapped abstraction has to come out, it is only matter of time.
 
 [Analogy : Ballons in the Room](https://www.cronj.com/blog/virtual-dom-react-js/)
 
@@ -36,6 +36,9 @@ Regular DOM take O(n^3) for generating Updated DOM where Virtual DOM is O(n) to 
 
 
 All the JS frame works Angular, Vue implemented React famous feature that is `Virtual DOM`
+
+### State management (Mobx) 
+Mobx and MST goes here
 
 ### React Component Libraries 
  - [React.Rocks](https://react.rocks/?q=form) components : search by keyword out of 1000
