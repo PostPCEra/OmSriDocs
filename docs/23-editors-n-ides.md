@@ -26,7 +26,7 @@ Editors, IDEs, Style formatters and Linters for various languages.
 ### Extensions & Plug-ins
 TODO : Add VSCode Extensions as table , get from airtable
 
-### Style formatters
+### formatters & Linters
 
 | Name               | Language     |  extras    |  Notes2 |
 | -------------      |:-------------   |-------------  |:-------------:| 
@@ -34,11 +34,10 @@ TODO : Add VSCode Extensions as table , get from airtable
 | Black           | Python          | supports only ONE style  |     |
 | Prettier           | JavaScript, React          | configurable, popular  |     |
 
-An extension ( of VsCode) supports source code formatting using either autopep8 (the default), [black, or yapf.](https://code.visualstudio.com/docs/python/editing)
+An extension (of VsCode) supports source code formatting using either autopep8 (the default), [black, or yapf.](https://code.visualstudio.com/docs/python/editing)
 
 Both <b>YAPF & prettier</b> are integrated with Pycharm and other IDEs
-
-### Linters
+<hr> 
 
 Why lint [your JavaScript?](https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7)
 

@@ -17,11 +17,11 @@ Nowadays, when you create a project, build an application or a startup, you like
 
 Now, to build all these amazing and often useless apps you need tools, and it happened that vast majority of these tools are open source and primarily built for Linux in mind. Simply speaking, trying to build web or cloud based applications on Windows was either no go or at least a serious pain in the a** till 30th of March 2016.
 
-From business perspective, <b>it means that you or your employees no longer need to buy shiny yet overpriced Mac</b> because “you need a terminal and SSH” and “ability to run MS Office”, neither you need to sacrifice lots of productivity software like Photoshop and work exclusively on Linux that doesn’t support most of it.
+From business perspective, `it means that you or your employees no longer need to buy shiny yet overpriced Mac` because “you need a terminal and SSH” and “ability to run MS Office”, neither you need to sacrifice lots of productivity software like Photoshop and work exclusively on Linux that doesn’t support most of it.
 
 You can now have it all on your Windows PC and so this post is about how you can actually do it.
 
-Having years of mileage on Linux, I’ve spent last couple of months working primarily from a Windows 10 laptop, ThinkPad T460, using Bash on Windows and can share some experience here – <b>what works, what almost works, and what doesn’t<b> – from a developer perspective, ,<b>and I tell you, what Microsoft did is pretty awesome</b>
+Having years of mileage on Linux, I’ve spent last couple of months working primarily from a Windows 10 laptop, ThinkPad T460, using Bash on Windows and can share some experience here – `what works, what almost works, and what doesn’t` – from a developer perspective, ,`and I tell you, what Microsoft did is pretty awesome`
 
 ### MAC Dev environment setup
 
@@ -29,6 +29,14 @@ Having years of mileage on Linux, I’ve spent last couple of months working pri
 - New MacBook [Setup for Developers](https://dev.to/therealdanvega/new-macbook-setup-for-developers-2nma) -- see SDK man
 - macOS [Setup Guide](https://sourabhbajaj.com/mac-setup/)
 - A beginner's guide to setting up a [development environment on macOS](https://github.com/nicolashery/mac-dev-setup)
+
+### Shell - OhMyZsh
+
+- Shell : Oh 'My Zsh' `'bottom'`, `bottom222`,
+[iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font](https://gist.github.com/kevin-smets/8568070)
+
+
+- Ag : File search A code-searching tool [similar to ack, but faster](http://geoff.greer.fm/ag/)
 
 ### Future Table
 

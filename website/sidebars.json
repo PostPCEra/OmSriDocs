@@ -9,21 +9,19 @@
     "The Toolchain": [
       "22-the-machine",
       "21-collaboration-tool-set",
-      "23-editors-n-ides",
-      "browser2244"
+      "23-editors-n-ides"
     ],
     "Technology Stack": [
-      "browser2233",
-      "11_os_shell", 
-      "12_ES6_React_Javascript", 
-      "13_Python_n_Django", 
+      "12-react-n-es6-js", 
+      "13-python-n-django", 
+      "13b-go-ruby-java",
       "14_Analytics", 
       "15_Socialmedia_marketing", 
       "16_DevOps", 
       "17_Producivity_tools" 
     ],
     "Mastery Learn": [ 
-      "31_Pedagogy", 
+      "31-pedagogy", 
       "32_ML_building_business", 
       "33_Product_featuers",  
       "351_OnlineJudge", 
