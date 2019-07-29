@@ -43,6 +43,24 @@ BERT Explained: State of the art [language model for NLP](https://towardsdatasci
 - Successful [real-world robotic applications call for a variety of skills](https://medium.com/ai%C2%B3-theory-practice-business/habitat-training-ground-for-embodied-ai-agents-4d1eea28ee3a) including visual perception, scene understanding, language understanding, and proper navigation skills.
 - I wouldn’t say that tables have wholly turned, `but while datasets have been significant drivers` in computer vision and natural language processing progress, `richly built simulators may soon start assuming their roles`.
 
+
+### 3. Deep learning protein-folding : Alphafold @ CASP
+> Deep learning makes its mark on protein-structure prediction.
+
+The race to crack one of biology’s grandest challenges — predicting the 3D structures of proteins from their amino-acid sequences — is intensifying, thanks to new artificial-intelligence (AI) approaches.
+https://www.nature.com/articles/d41586-019-01357-6
+
+At the end of last year, Google’s AI firm DeepMind debuted an algorithm called AlphaFold, which combined two techniques that were emerging in the field and beat established contenders in a competition on protein-structure prediction by a surprising margin. 
+
+And in April this year, a US researcher revealed an algorithm that uses a totally different approach. He claims his AI is up to `one million times faster` at predicting structures than DeepMind’s, although probably not as accurate in all situations.
+
+
+These approaches are cheaper and faster than existing lab techniques such as X-ray crystallography, and the knowledge could help researchers to better understand diseases and design drugs. `“There’s a lot of excitement about where things might go now,”` says John Moult, a biologist at the University of Maryland in College Park and the founder of the biennial competition, called `Critical Assessment of protein Structure Prediction (CASP), where teams are challenged to design computer programs that predict protein structures from sequences.`
+
+But he says that because his algorithm uses a mathematical function to calculate protein structures in a single step — rather than in two steps like AlphaFold, which uses the similar structures as groundwork in the first step — it can predict structures in milliseconds rather than hours or days.
+
+`“AlQuraishi’s approach is very promising. It builds on advances in deep learning as well as some new tricks AlQuraishi has invented,”` says Ian Holmes, a computational biologist at the University of California, Berkeley. `“It might be possible that, in the future, his idea can be combined with others to advance the field,”` says Jinbo Xu, a computer scientist at the Toyota Technological Institute at Chicago, Illinois, who competed at CASP13.
+
 ## Large & Complex ML/DL Libraries
 we list here, some of the complex ML/DL libraries that are open sourced. Studying these libraries enable students to gain knowlege on cutting edge reserach in the said fields.
 
@@ -51,6 +69,32 @@ we list here, some of the complex ML/DL libraries that are open sourced. Studyin
 > A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 
 Microsoft open-sources [key Bing Search search algorithm](https://venturebeat.com/2019/05/15/microsoft-open-sources-key-bing-search-search-algorithm/)
+
+
+### 2.  Deepchem: Deep-Learning library for Drug Discovery & more ..
+> Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology https://deepchem.io/
+
+> What is DeepChem?
+
+DeepChem is a python library that provides [a high quality open-source toolchain for deep-learning in drug discovery](https://github.com/deepchem/deepchem), materials science, quantum chemistry, and biology.
+
+> About Us
+
+DeepChem is possible due to notable contributions from many people including Peter Eastman, Evan Feinberg, Joe Gomes, Karl Leswing, Vijay Pande, Aneesh Pappu, Bharath Ramsundar and Michael Wu (alphabetical ordering). `DeepChem was originally created by Bharath Ramsundar with encouragement and guidance from Vijay Pande.`
+
+DeepChem started as a Pande group project at Stanford, and is now developed by many academic and industrial collaborators. DeepChem actively encourages new academic and industrial groups to contribute!
+
+
+
+### 3.  ProteinNet : Standardized data set for machine learning of protein structure
+
+ProteinNet created by Mohammed AlQuraishi, [a biologist at Harvard Medical School in Boston](https://www.nature.com/articles/d41586-019-01357-6) who developed faster DL algoritms than Google AlphaFold.
+
+#### [Motivation](https://github.com/aqlaboratory/proteinnet) 
+Protein structure prediction is one of the central problems of biochemistry. While the problem is well-studied within the biological and chemical sciences, it is less well represented within the machine learning community. We suspect this is due to two reasons: `1) a high barrier to entry for non-domain experts, and 2) lack of standardization in terms of training / validation / test splits that make fair and consistent comparisons across methods possible.` 
+
+If these two issues are addressed, protein structure prediction can become a major source of innovation in `ML research, alongside the canonical tasks of computer vision, NLP, and speech recognition`. Much like `ImageNet helped spur the development of new computer vision techniques, ProteinNet aims to facilitate ML research` on protein structure by providing a standardized data set, and standardized training / validation / test splits, that any group can use with minimal effort to get started.
+
 
 
 ## ML/DL Business Applications
