@@ -3,6 +3,10 @@ id: 13-python-n-django
 title: Python & Django
 ---
 
+How do you comprehend a "Programming Language/Framework" & [what all it offers? enter DevDocs.io](https://devdocs.io/python~3.6/)
+
+What Does It Take to [Be An Expert At Python](https://github.com/austin-taylor/code-vault/blob/master/python_expert_notebook.ipynb) -- [youtube](https://www.youtube.com/watch?v=7lmCu8wz8ro)
+
 ## Python
 
 ### Virtual env 

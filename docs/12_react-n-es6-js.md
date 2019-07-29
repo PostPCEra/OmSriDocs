@@ -1,6 +1,6 @@
 ---
 id: 12-react-n-es6-js
-title: React & ES6 JavaScript
+title: React (& ES6 JS)
 ---
 
 TODO : got all page content for JS from old project,  EDIT & add new

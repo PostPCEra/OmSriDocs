@@ -1,6 +1,6 @@
 ---
 id: 19-ml-dl
-title: Machine Learing & Deep Learning
+title: ML & DL
 ---
 
 ## Courses, Libraries & future trends 
@@ -21,7 +21,7 @@ Top class Courses screend after careful examination from vast sea of available c
 ## Advancements in Deep Learning 
 Following are major advancements in ML/Deep Learing models.
 
-### 1. BERT: language model for NLP 
+### 1. BERT: A language model for NLP 
 
 BERT Explained: State of the art [language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 
@@ -34,8 +34,9 @@ BERT Explained: State of the art [language model for NLP](https://towardsdatasci
  > BERT’s key technical innovation is `applying` the bidirectional training of Transformer, a popular `attention model, to language modelling`. This is in contrast to previous efforts which looked at a text sequence either from left to right or combined left-to-right and right-to-left training. The paper’s results show that a language model which is bidirectionally trained can have a deeper sense of language context and flow than single-direction language model.
 
 
-### 2. Habitat: A simulation platform for embodied AI research
+### 2. Habitat: embodied AI Simmulator
 
+Habitat: A simulation platform for embodied AI research
 - From a [robot asked to “grab my phone from the desk upstairs”](https://ai.facebook.com/blog/open-sourcing-ai-habitat-an-simulation-platform-for-embodied-ai-research/) to a device that helps its visually impaired wearer navigate an unfamiliar subway system, the `next generation of AI-powered assistants will need to demonstrate a broad range of abilities`. Many researchers believe the most effective way to develop these skills is to focus on embodied AI, which uses interactive environments to ground systems’ training in the real world, `rather than relying on static data sets`. 
   
 - AI Habitat enables [training of embodied AI agents (virtual robots) in a highly photorealistic & efficient 3D simulator](https://medium.com/worasuchad/ai-habitat-4e9475a0275c), before transferring the learned skills to reality. This empowers a paradigm shift from ‘internet AI’ based on static datasets (e.g. ImageNet, COCO, VQA) to embodied AI where agents act within realistic environments, bringing to the fore active perception, long-term planning, learning from interaction, and holding a dialog grounded in an environment.
@@ -44,13 +45,13 @@ BERT Explained: State of the art [language model for NLP](https://towardsdatasci
 - I wouldn’t say that tables have wholly turned, `but while datasets have been significant drivers` in computer vision and natural language processing progress, `richly built simulators may soon start assuming their roles`.
 
 
-### 3. Deep learning protein-folding : Alphafold @ CASP
-> Deep learning makes its mark on protein-structure prediction.
+### 3. Deep learning protein-folding
+> Alphafold: Deep learning makes its mark on protein-structure prediction.
 
 The race to crack one of biology’s grandest challenges — predicting the 3D structures of proteins from their amino-acid sequences — is intensifying, thanks to new artificial-intelligence (AI) approaches.
 https://www.nature.com/articles/d41586-019-01357-6
 
-At the end of last year, Google’s AI firm DeepMind debuted an algorithm called AlphaFold, which combined two techniques that were emerging in the field and beat established contenders in a competition on protein-structure prediction by a surprising margin. 
+At the end of last year, `Google’s AI firm DeepMind debuted an algorithm called AlphaFold`, which combined two techniques that were emerging in the field and beat established contenders in a competition on protein-structure prediction by a surprising margin. 
 
 And in April this year, a US researcher revealed an algorithm that uses a totally different approach. He claims his AI is up to `one million times faster` at predicting structures than DeepMind’s, although probably not as accurate in all situations.
 
@@ -64,14 +65,16 @@ But he says that because his algorithm uses a mathematical function to calculate
 ## Large & Complex ML/DL Libraries
 we list here, some of the complex ML/DL libraries that are open sourced. Studying these libraries enable students to gain knowlege on cutting edge reserach in the said fields.
 
-### 1.  SPTAG: A library for fast approximate nearest neighbor search
+### 1.  SPTAG: MS Bing search open sourced 
+
+SPTAG: A library for fast approximate nearest neighbor search
 
 > A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 
 Microsoft open-sources [key Bing Search search algorithm](https://venturebeat.com/2019/05/15/microsoft-open-sources-key-bing-search-search-algorithm/)
 
 
-### 2.  Deepchem: Deep-Learning library for Drug Discovery & more ..
+### 2.  Deepchem: Drug Discovery platform
 > Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology https://deepchem.io/
 
 > What is DeepChem?
@@ -86,7 +89,9 @@ DeepChem started as a Pande group project at Stanford, and is now developed by m
 
 
 
-### 3.  ProteinNet : Standardized data set for machine learning of protein structure
+### 3.  ProteinNet : protein folding paltform
+
+ProteinNet : Standardized data set for machine learning of protein folding structure
 
 ProteinNet created by Mohammed AlQuraishi, [a biologist at Harvard Medical School in Boston](https://www.nature.com/articles/d41586-019-01357-6) who developed faster DL algoritms than Google AlphaFold.
 
@@ -99,7 +104,9 @@ If these two issues are addressed, protein structure prediction can become a maj
 
 ## ML/DL Business Applications
 
-### 1. Trustpilot : Customer Review Analysis platform
+### 1. Trustpilot : Customer Review Analysis
+
+Trustpilot : Customer Review Analysis platform
 
 - Trustpilot has 700 employees globally, raised VC funding $110 M , [started applying ML/DL recently](https://venturebeat.com/2019/07/27/trustpilot-building-ai-for-your-company-means-not-falling-in-love/) . 
    
@@ -135,7 +142,10 @@ Specifically, [Habitat consists of the following:](https://arxiv.org/abs/1904.01
 - The second layer in AI Habitat’s software stack is `Habitat-API`, a high-level library for defining tasks such as visual navigation and question answering.
 - The platform’s third and final layer is its most open-ended. `This is the concrete embodied task that systems are being asked to learn through simulation`. It’s also where users specify training and evaluation parameters, such as how difficulty might ramp across multiple runs and what metrics to focus on.
   
-### Standardizing embodied AI research through open, modular design
+### embodied AI platform
+
+Standardizing embodied AI research through open, modular design
+
 
 Facebook AI has explored the potential of embodied AI for years, including creating agents that communicate with each other to find their way through simulated NYC streets and agents that navigate virtual indoor environments in order to answer questions. `These efforts shared the common goal of developing versatile, problem-solving AI that leverages progress in traditionally distinct research areas, such as using natural language processing (NLP) to communicate with humans or agents, computer vision (CV) to perceive simulated environments, and reinforcement learning (RL) techniques that power the decision-making to navigate real-world spaces`. 
 
