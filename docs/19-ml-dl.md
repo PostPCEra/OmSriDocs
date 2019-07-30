@@ -21,6 +21,24 @@ Top class Courses screend after careful examination from vast sea of available c
 ## Advancements in Deep Learning 
 Following are major advancements in ML/Deep Learing models.
 
+### 0. AlphaGO & AlphaGoZero
+
+dThe 3 Tricks That Made [AlphaGo Zero Work](https://hackernoon.com/the-3-tricks-that-made-alphago-zero-work-f3d47b6686ef)
+
+Dylan's blog [AlphaGo Zero demystified](https://dylandjian.github.io/alphago-zero/) -- github [code base](https://github.com/dylandjian/superGo)
+
+miniGo : An open-source implementation [of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
+
+Look at these [simple projects to Learn AlphaGO methods](https://github.com/search?o=desc&q=alphago&s=stars&type=Repositories)
+- AlphaZero_Gomoku : An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)
+
+- chess-alpha-zero: Chess reinforcement learning by AlphaGo Zero methods.
+
+- alpha-zero-general: A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4
+
+
+
+
 ### 1. BERT: A language model for NLP 
 
 BERT Explained: State of the art [language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
@@ -61,6 +79,13 @@ These approaches are cheaper and faster than existing lab techniques such as X-r
 But he says that because his algorithm uses a mathematical function to calculate protein structures in a single step — rather than in two steps like AlphaFold, which uses the similar structures as groundwork in the first step — it can predict structures in milliseconds rather than hours or days.
 
 `“AlQuraishi’s approach is very promising. It builds on advances in deep learning as well as some new tricks AlQuraishi has invented,”` says Ian Holmes, a computational biologist at the University of California, Berkeley. `“It might be possible that, in the future, his idea can be combined with others to advance the field,”` says Jinbo Xu, a computer scientist at the Toyota Technological Institute at Chicago, Illinois, who competed at CASP13.
+
+### GAN & StyledGAN
+
+Explained: A Style-Based Generator Architecture for GANs - [Generating and Tuning Realistic Artificial Faces](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
+
+
+How to Generate Game of [Thrones Characters Using StyleGAN](https://nanonets.com/blog/stylegan-got/)
 
 ## Large & Complex ML/DL Libraries
 we list here, some of the complex ML/DL libraries that are open sourced. Studying these libraries enable students to gain knowlege on cutting edge reserach in the said fields.
@@ -104,7 +129,17 @@ If these two issues are addressed, protein structure prediction can become a maj
 
 ## ML/DL Business Applications
 
-### 1. Trustpilot : Customer Review Analysis
+### 1. APIs to train your customised needs
+
+Nanonets.com : Counting [Cars In Parking Lots](https://nanonets.com/drone/counting-cars/)
+
+By comparison, the same `3,000 spaces parking lot can be covered by a 15 minutes drone flight`. The drone flies along a pre-planned route over the parking lot collecting overhead images at regular intervals. `These images are then stitched together to form a huge orthomosaic image`. Nanonets web API can then be used to get the count of cars in the orthomosaic image created each hour. 
+
+`Each orthomosaic image is processed within seconds` and the results are sent back to the server machine over the web. `1 human annotator then verifies the results of the API output and collates the results in his report.`
+
+APIs to access a [trained model customised for your needs.](https://nanonets.com/#demo)
+
+### 2. Trustpilot : Customer Review Analysis
 
 Trustpilot : Customer Review Analysis platform
 
