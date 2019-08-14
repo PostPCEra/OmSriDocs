@@ -4,6 +4,14 @@ title: Kotlin(Java), Go & Rails
 ---
 ## The next batch of Languages: Kotlin(Java), Go & Rails
 
+
+https://octoverse.github.com/projects#repositories
+ # of Contributors
+1	Microsoft/vscode	19K
+2	facebook/react-native	10K
+3	tensorflow/tensorflow	9.3K
+4	angular/angular-cli	8.8K
+
 ### Kotlin > Java
 Kotlin : mainly for androiod, even for good for regular Java projects as it compiles to JVM byte code and runs in JVM
 
@@ -12,12 +20,12 @@ Kotlin : mainly for androiod, even for good for regular Java projects as it comp
 
 Which programming language comes to mind when you hear `Android app development?`
 
-<b>asr:</b> Lots of love for Kotlin when you read user comment section
+<b>asr:</b> `Lots of love for Kotlin when you read user comment section`
 
 `Guava project`
-
 The [Guava project contains](https://github.com/google/guava/wiki) several of Google's `core libraries that we rely on in our Java-based projects`: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth. Each of these tools really do get used every day by Googlers, in production services.
 
+asr: `our CodingBot will write Code in Guava and Kotlin not in plain Java, because Java is too verbose for Bot to comprehend.`
 
 10 Reasons Why You Should [Drop Java and Switch to Kotlin](https://moducode.com/blog/10-reasons-java-vs-kotlin/)
 

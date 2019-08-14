@@ -48,6 +48,10 @@ BERT Explained: State of the art [language model for NLP](https://towardsdatasci
 - Microsoft makes [Google’s BERT NLP model better](https://venturebeat.com/2019/05/16/microsoft-makes-googles-bert-nlp-model-better/)
 
 - TensorFlow code and [pre-trained models for BERT](https://github.com/google-research/bert)
+- A nice blog post explaining [recent progress in NLP ](https://ai.facebook.com/blog/new-advances-in-natural-language-processing-to-better-connect-people/)and translation and some Facebook AI's contributions.BERT, RoBERTa, backtranslation, GLUE, SuperGLUE, WMT explained....
+
+- [Parl.ai](https://parl.ai/) : A unified platform for sharing, training and evaluating dialogue models across many tasks.
+
 
  > BERT’s key technical innovation is `applying` the bidirectional training of Transformer, a popular `attention model, to language modelling`. This is in contrast to previous efforts which looked at a text sequence either from left to right or combined left-to-right and right-to-left training. The paper’s results show that a language model which is bidirectionally trained can have a deeper sense of language context and flow than single-direction language model.
 
@@ -80,7 +84,7 @@ But he says that because his algorithm uses a mathematical function to calculate
 
 `“AlQuraishi’s approach is very promising. It builds on advances in deep learning as well as some new tricks AlQuraishi has invented,”` says Ian Holmes, a computational biologist at the University of California, Berkeley. `“It might be possible that, in the future, his idea can be combined with others to advance the field,”` says Jinbo Xu, a computer scientist at the Toyota Technological Institute at Chicago, Illinois, who competed at CASP13.
 
-### GAN & StyledGAN
+### 4. GAN & StyledGAN
 
 Explained: A Style-Based Generator Architecture for GANs - [Generating and Tuning Realistic Artificial Faces](https://towardsdatascience.com/explained-a-style-based-generator-architecture-for-gans-generating-and-tuning-realistic-6cb2be0f431)
 
