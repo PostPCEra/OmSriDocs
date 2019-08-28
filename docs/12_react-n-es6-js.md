@@ -16,6 +16,7 @@ TODO : got all page content for JS from old project,  EDIT & add new
 - [ES6 Cheat sheet](https://github.com/mbeaudru/modern-js-cheatsheet) : detailed examples for each feature
 - [5 REASONS WHY ES6 ROCKS](http://orlandohamsho.com/javascript/5-reasons-es6-rocks-yo/) 
 - [Advantages of JavaScript ES6 over ES5](http://www.cuelogic.com/blog/advantages-of-javascript-es6-over-es5/)
+- ES5 to ESNext — here’s every feature [added to JavaScript since 2015](https://medium.com/free-code-camp/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
 
 **Model Code**
 
