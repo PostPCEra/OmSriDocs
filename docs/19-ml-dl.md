@@ -18,6 +18,26 @@ Top class Courses screend after careful examination from vast sea of available c
   Has stock market project 
 
 
+## Interesting Libraries & Systems
+Some good ML/DL Systems & Libraries ....
+
+### Lugwig 
+  Ludwig : [Machine Learning with No Code](https://www.youtube.com/watch?v=w45t3itM5NM) -- by Uber
+
+  Ludwig [intro](https://uber.github.io/ludwig/getting_started/)
+
+### open AI Gym
+
+  Getting [Started With OpenAI Gym](https://www.youtube.com/watch?v=8MC3y7ASoPs) -- code demo youtube
+  
+  [open AI Gym](https://gym.openai.com/)
+
+  - Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
+  - We provide the environment; you provide the algorithm.You can write your agent using your existing numerical computation library, such as TensorFlow or Theano.
+
+
+
+
 ## Advancements in Deep Learning 
 Following are major advancements in ML/Deep Learing models.
 
