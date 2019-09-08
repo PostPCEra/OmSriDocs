@@ -14,7 +14,16 @@ Top class Courses screend after careful examination from vast sea of available c
 ### 2. Fast.ai course
   Using ...
 
-### 3. Deep Reinforcemnet Learning Book
+### 3. ML Problem Framing!
+  google Course 
+  
+  Introduction to [Machine Learning Problem Framing!](https://developers.google.com/machine-learning/problem-framing/?utm_source=googleAI&utm_medium=card-image&utm_campaign=training-hub&utm_term=&utm_content=problem-framing)
+
+  Data Preparation and [Feature Engineering in ML](https://developers.google.com/machine-learning/data-prep/)
+
+ Testing and [Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging/)
+
+### 4. Deep Reinforcemnet Learning Book
   Has stock market project 
 
 
