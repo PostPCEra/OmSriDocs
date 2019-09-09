@@ -10,6 +10,10 @@ Top class Courses screend after careful examination from vast sea of available c
 
 ### 1. Hongkong University professor course
   Using Pytorch, slides and Youtube videos
+  PyTorch Zero To All Lecture by Sung Kim hunkim+ml@gmail.com at HKUST
+[14 video lectures](https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)  
+[Code](https://github.com/hunkim/PyTorchZero) 
+[Slides](http://bit.ly/PyTorchZeroAll)  
 
 ### 2. Fast.ai course
   Using ...
@@ -24,7 +28,12 @@ Top class Courses screend after careful examination from vast sea of available c
  Testing and [Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging/)
 
 ### 4. Deep Reinforcemnet Learning Book
-  Has stock market project 
+  Deep Reinforcement Learning Hands-On
+-- The main orientation is practice, and the book tries to limit the amount of theory and formulas to the minimum.  
+-- Applying modern ML Methods 
+-- stocks trading agent
+
+code : https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On?source=post_page---
 
 
 ## Interesting Libraries & Systems
